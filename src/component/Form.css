@@ -1,0 +1,34 @@
+
+.card{
+    background-color:#CDCDCD ;
+}
+.button1{
+        width: 20%;
+        border: 2px blueviolet;
+        text-align: center;
+        font-family: bold;
+        margin-top: 10px;
+}
+ .mb-3{
+    background-color: beige;
+    height: 5rem;
+ }
+ .button2{
+   padding: 10px;
+    width: 20%;
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.form-select{
+   border-radius: 20px;
+
+}
+.text{
+   border-radius: 20px;
+   background: white;
+}
+
+
